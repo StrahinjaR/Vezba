@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Strahinja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Strahinja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\DataLayer\\DataLayer.csproj"
+              "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\DataLayer\\DataLayer.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\Strahinja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Strahinja\\AppData\\Roaming\\NuGet\\NuGet.Config",

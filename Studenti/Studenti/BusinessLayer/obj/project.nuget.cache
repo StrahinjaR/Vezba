@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFKsvEmCLvti8lnZORaMewva7XJlXwXDIjIo/jA3xyO1qDlbhCw8zezfIBZyVuKodAN6Yiua+LO3JMEw6m3H3w==",
+  "dgSpecHash": "ADu8MzBPKzese4mzadVW2rdioIBEKreyoGOOcp7v2Ci6MQBFoKSVmRhPVUO+MBSpuvFbBP47uIkE7/rbvS3A4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Strahinja\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Strahinja\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

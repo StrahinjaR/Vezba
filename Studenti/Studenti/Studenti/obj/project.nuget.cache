@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3cjrCezJldDfpESOjF6VcWNgIXvLSphrQ35y+0iwzt4J6ISRs31Im+tG1PRfIfKyFZ1IlRe6zWEi2tT5hBfRwg==",
+  "dgSpecHash": "tcEe76mut2/k8VMoJ74oUUcOIUOfo1C5XUkUkmrOjkJvIazy3408pohKgqX4e/XxGhvtC3zOQ4A8p8cpgLtW2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Mladjamrtvizadaci\\Studenti\\Studenti\\PresentationLayer.csproj",
+  "projectFilePath": "C:\\Users\\Strahinja\\Desktop\\Vezbanje SI\\Studenti\\Studenti\\Studenti\\PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Strahinja\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Strahinja\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
